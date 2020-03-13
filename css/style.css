@@ -370,6 +370,9 @@ h2:after {
     .box-item:last-child .box-text {
         border-bottom: none;
     }
+    .pizza_img {
+        display: none;
+    }
 }
 @media (max-width: 800px) {
     .navigation {
